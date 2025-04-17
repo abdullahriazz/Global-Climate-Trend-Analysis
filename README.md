@@ -33,11 +33,3 @@ This project automates the scraping, preprocessing, and modeling of weather data
 - Gust Wind  
 - Sea Level Pressure  
 
----
-
-## 🧰 Requirements
-
-Install dependencies via:
-
-```bash
-pip install -r requirements.txt
